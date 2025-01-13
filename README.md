@@ -1,5 +1,19 @@
 # codetech_task_2.2
 
+Name:Parth Deorukhkar
+
+Company:CODETECH IT SOLLUTION
+
+ID:CT08EIV
+
+Domain:Python
+
+Duration:Dec17 to Jan 17
+
+Mentor:Neela Santosh Kumar
+
+
+
 Data Analysis and PDF Report Generator
 This Python script reads a dataset (in CSV format), performs basic statistical analysis, and generates a PDF report with the analysis summary using the FPDF library.
 
